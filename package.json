@@ -1,0 +1,16 @@
+{
+  "name": "holbertonschool-web_react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start-dev": "ts-node /N:/HolbertonSchool/holbertonschool-web_react/TypeScript/task_1/js/main.ts"
+  },
+  "dependencies": {
+    "typescript": "^4.0.0",
+    "ts-node": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.0"
+  }
+}

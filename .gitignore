@@ -1,9 +1,5 @@
 // This file is used to ignore files and directories in the repository.
 npm-log*
 package-lock.json
-package.json
-tsconfig.json
-webpack.config.js
-.eslintrc.js
 dist/
 node_modules/
